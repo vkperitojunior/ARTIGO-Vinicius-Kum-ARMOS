@@ -1,0 +1,17 @@
+https://pt.wikipedia.org/wiki/ESP32
+https://engeasier.com.br/a/luan-bispo
+https://artigocientifico.com.br/passo-a-passo/como-fazer-o-desenvolvimento-de-um-artigo-cientifico/
+http://adaec.icmc.usp.br/wiki/esp
+https://www.bluelux.com.br/contatores-o-que-sao-e-para-que-servem/
+https://www.canva.com/
+https://miro.com/
+https://www.pensador.com/frase/MTY4ODIyNA/
+https://www.theverge.com/2019/10/21/20924886/alexa-google-home-security-vulnerability-srlabs-phishing-eavesdropping
+https://www.bbc.com/news/technology-53770778
+https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/api/i2c.html
+https://docs.espressif.com/projects/esp-idf/en/v5.1/esp32/api-reference/peripherals/i2c.html
+https://www.youtube.com/watch?v=4v6c-KXsue0
+https://www.youtube.com/watch?v=JkMOrQ2Occw
+https://www.youtube.com/watch?v=JkMOrQ2Occw
+https://consultimer.com/o-que-e-lora-conheca-a-tecnologia-de-radiofrequencia-de-longo-alcance/
+https://blog.mettzer.com/consideracoes-finais-tcc/

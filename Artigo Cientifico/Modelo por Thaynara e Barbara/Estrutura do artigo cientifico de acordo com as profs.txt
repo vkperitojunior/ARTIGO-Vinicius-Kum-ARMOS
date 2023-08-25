@@ -1,0 +1,8 @@
+Estrutura de um artigo cientifico de acordo com Barbara Porphirio:
+
+Resumo -> titulo, nome, email e resumo.
+Introdução -> Contexto, probelmática, objetivo e justificativa.
+Referencial teórico -> Conceitos abordados.
+Materiais e Metodos -> ferramentas, questionarios, materiais, como foi feito, como o form foi feito.
+Resultados -> apresentar os grráficos, relatórios, pesquisas, e discussões, o que você conseguiu fazer.
+Conclusão -> o qu evocê propos e o que você conseguiu, trabalhos futuros.

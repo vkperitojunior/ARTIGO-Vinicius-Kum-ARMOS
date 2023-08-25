@@ -1,0 +1,46 @@
+Formulario do artigo cientifico - Quais serão as perguntas:
+
+-página 1 - informações pessoais
+1- Qual seu email?
+2- Qual seu nome?
+3- Qual sua idade?
+
+-página 2 - da sua casa
+4- Sua casa possui algum tipo de automação?
+5- Sua casa possui alguma inteligencia artificial?
+6- Você já teve interesse em automatizar alguma parte de sua casa?
+7- Quais beneficios você acha que a automação pode nos trazer?
+8- Você acha caro as tecnologias para automação como alexa e google?
+
+-página 3 - da programação
+9- Você já programou ou conhece alguma linguagem de programação?
+10- Você programa, conhece ou já ouviu falar em arduino ou esp32/8266?
+11- Você programa, conhece ou já ouviu falar na linguagem de programação c++?
+12- Qual o seu conhecimento em eletronica?
+13- Gostaria de poder criar a própria automação residencial?
+
+-pagina 4 - das considerações finais
+14- Você achou esse formulario chato de responder?
+15- Gostaria de apreder a programar?
+
+  Agradecemos a sua paciencia para responder à este formulario,
+esta pesquisa sera muito importante para minha pesquisa de campo,
+meu contato esta abaixo caso queira fazer alguma pergunta!
+
+  Vinicius Kum
+  email: codnicius@gmail.com ou vinicius.kum@etec.sp.gov.br
+  instagram: @viniciuskum
+  facebook: @viniciuskum
+
+  Sou aluno da Escola Técnica Estadual de Campo Limpo Paulista, atualmente
+cursando o 2º ano do ensino médio integrado ao técnico de informática e
+desenvolvendo um projeto de automação residencial com o objetivo de baratear, 
+facilitar e ensinar o quanto a programação e automação pode nos ajudar no dia a
+dia e o quanto pode ser interessante para desenvolvermos nossa capacidade mental
+aatrvés da lógica de programação.
+  Com orgulho, apresento as minhas mentoras: 
+- Professora Barbara Kathellen Andrade Porfirio.
+instagram: @prof_barbara19 
+- Professora Thaynara Santos. 
+instagram: @prof_thay92
+

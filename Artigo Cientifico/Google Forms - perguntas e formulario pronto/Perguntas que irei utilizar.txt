@@ -1,0 +1,48 @@
+Formulario do artigo cientifico - Quais serão as perguntas:
+
+-página 1 - informações pessoais
+1- Qual seu email?
+2- Qual seu nome?
+3- Qual sua idade?
+
+-página 2 - da sua casa
+4- Sua casa possui algum tipo de automação?
+5- Sua casa possui alguma inteligencia artificial?
+6- Você já teve interesse em automatizar alguma parte de sua casa?
+7- Quais beneficios você acha que a automação pode nos trazer?
+8- Você acha caro as tecnologias para automação como alexa e google?
+
+-página 3 - da programação
+9- Você já programou ou conhece alguma linguagem de programação?
+10- Você programa, conhece ou já ouviu falar em arduino ou esp32/8266?
+11- Você programa, conhece ou já ouviu falar na linguagem de programação c++?
+12- Qual o seu conhecimento em eletronica?
+13- Gostaria de poder criar a própria automação residencial?
+
+-página 4 - das considerações
+14- Você gostaria de aprender a programar?
+15- Este formulario foi chato de responder?
+
+ Agradecemos a sua paciencia e resposta, sua ajuda é de grande valor para meu
+artigo cientifico, abaixo segue o meu contato caso tenha alguma duvida ou pergunta:
+
+email: codnicius@gmail.com ou vinicius.kum@etec.sp.gov.br
+instagram: @viniciuskum
+facebook: @viniciuskum
+
+  Sou o aluno Vinicius Kum, tenho 16 anos de idade, atualmente cursando 
+o 2º ano do ensino médio integrado ao técnico em informática para internet
+na Escola Técnica Estadual de Campo Limpoo Paulista.
+  Atualmente as inteligencias artificiais e equipamentos de automação residencial são 
+muito caros para a maioria das familias e realidades Brasileiras, este projeto tem o objeivo
+de baratear, facilitar e ensinar todo o mundo de automação residencial para aqueles
+que tem interesse particular e profissional nesses projetos, usando placas baratas, de fácil
+programação e componentes eletronicos intuitivos.
+  Com orgulho, apresento minhas mentoras, sem elas, este proejto não seria possivel!
+
+- Professora Barbara Kathellen Andrade Porfirio
+instagram: @prof_barbara19
+- Professora Thaynara Cristina Maia dos Santos
+instagram: @prof_thay92
+
+"Educador é aquele que confecciona assas e voa junto" Sergio Vaz
