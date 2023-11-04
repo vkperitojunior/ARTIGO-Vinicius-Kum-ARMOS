@@ -13,4 +13,4 @@
 #### Agradecemos sua visita, volte sempre.
 #### *Artigo e programação ainda em desenvolvimento*
 #### copyroght@2023-ViniciusKum
-![Imagem da logo da ETECAMP](https://etecamp.com.br/ETEC/wp/).
+![Imagem da logo da ETECAMP]([https://etecamp.com.br/ETEC/wp/](https://yt3.googleusercontent.com/ytc/APkrFKaLQBRZkwdU6jrTkMiVhJzLrVKrdIdS8KefIjSr=s900-c-k-c0x00ffffff-no-rj)https://yt3.googleusercontent.com/ytc/APkrFKaLQBRZkwdU6jrTkMiVhJzLrVKrdIdS8KefIjSr=s900-c-k-c0x00ffffff-no-rj).
