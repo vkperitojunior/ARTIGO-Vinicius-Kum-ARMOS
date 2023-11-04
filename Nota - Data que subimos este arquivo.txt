@@ -1,2 +1,8 @@
-Olá, sou Vinicius Kum, hoje é dia 25/08/2023, estou subindo estes arquivos de forma a dar segurança na continuidade do 
+  Olá, sou o Vinicius Kum, hoje é dia 25/08/2023, estou subindo estes arquivos de forma a dar segurança na continuidade do 
 trabalho a se realizar, porém o mesmo ainda não teve seu fim !, se precisar estaremos a disposição para duvidas.
+
+  Olá, sou o Vinicius Kum, hoje é dia 04/11/2023, estou atualizando os repositórios para os novos que já estão funcionando, 
+com todo sistema integrado e a atualização de que não tera mais integração com o google assitente, ja que para o mesmo, 
+aumentaria a coplexidade e valor do sistema por inteiro, também irei atualizar o que esta escrito no repositório e adicionar
+uma pasta da proramação da placa esp8266.
+  OBS: a atualização do artigo "escrito" irá vir provavelmente, em meados do final de semana da sexta feira 10/11/2023.
