@@ -1,0 +1,6 @@
+table{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border: 0px solid black;
+}

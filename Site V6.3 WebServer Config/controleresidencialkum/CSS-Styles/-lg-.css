@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    margin: 2% 2% 2% 2%;
+    padding: 5px;
+    background: linear-gradient(#6fd689, black);
+}
+body h1{
+    font-size: xx-large;
+    color: white;
+    font-family: cursive;
+}
+body h4{
+    color: black;
+    font-size: large;
+}
+body h2{
+    font-size: x-large;
+    color: black;
+}
+body p{
+    font-size: larger;
+    color: black;
+    font-style: bold;
+}
+body h3{
+    font-size: larger;
+    color: white;
+    font-style: bold;
+    font-family: cursive;
+}
+
+body input{
+    display: flex;
+    margin-left: 16%;
+}
+body label{
+    display: flex;
+    margin-left: 41%;
+}
+
+#loginbox{
+padding: 10px;
+border-radius: 5%;
+margin-left: 40%;
+border: 3px solid black;
+background-color: white;
+height: 80%;
+width: 21%;
+justify-content: center;
+text-align: center;
+box-shadow: 8px 8px 8px 1px rgba(0, 0, 0, 0.2);
+}
+
+#loginbox label{
+    font-family: cursive;
+    font-size: 100%;
+    margin-top: 6%;
+}
+
+#log{
+    font-family: cursive;
+    font-size: 100%;
+    margin-top: 10%;
+}

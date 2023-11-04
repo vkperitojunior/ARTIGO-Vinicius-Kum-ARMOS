@@ -1,0 +1,123 @@
+nav{
+    text-align: center;
+    padding: 1%;
+    margin: auto;
+    border: 2px solid #00ff40;
+    width: 98%;
+    height: 40%;
+    background-color: black;
+    margin-top: 10px;
+}
+
+nav img{
+    width: 10%;
+    height: 45%;
+
+}
+
+nav ul{
+    display: flex;
+}
+
+#nav01{
+    text-align: center;
+    color: #00ff40;
+    text-align: center;
+    font-size: 120%;
+    font-family: cursive;
+}
+
+nav ul li{
+    list-style-type: none;
+    text-align: center;
+}
+
+#nav02 a{
+    border-radius: 10%;
+    padding: 10%;
+    text-decoration: none;
+    font-size: 16px;
+    color: #00ff40;
+    font-family: cursive;
+    border: 2px solid #00ff40; 
+    background-color: black;
+}
+
+#nav02 li{
+    margin-top: -6%;
+    margin-right: 8%;
+    margin-left: 10%;
+}
+
+footer{
+    padding: 10px;
+    margin: auto;
+    border: 2px solid #00ff40;
+    width: 98%;
+    height: 35%;
+    background-color: black;
+    text-align: center;
+}
+
+footer img{
+    width: 30%;
+    height: 70%;
+    border: 3px solid black;
+    border-radius: 20%;
+}
+
+#contatos{
+    color: #00ff40;
+}
+
+#contatos li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#contatos ul{
+    display: flex;
+    
+}
+
+#copyright{
+text-align: center;
+font-size: 5px;
+font-family: cursive;
+color: #00ff40;
+}
+
+#userarea{
+    text-align: center;
+    padding: 2%;
+    margin: auto;
+    border: 2px solid #00ff40;
+    width: auto;
+    background-color: black;
+}
+
+#userarea a{
+    justify-content: center;
+}
+
+.meio{
+    font-size: 20px;
+    margin-top: -3%;
+}
+
+.meio p{
+    font-size: 100%;
+    color: #00ff40;
+}
+
+.dir{
+    border-radius: 10%;
+    padding: 0.5%;
+    text-decoration: none;
+    font-size: 16px;
+    color: #00ff40;
+    font-family: cursive;
+    border: 2px solid #00ff40; 
+    background-color: black;
+    margin-top: -5%;
+}
