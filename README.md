@@ -12,8 +12,11 @@
   Qualquer duvida estaremos a disposição para sanar -> codnicius@gmail.com
   Ajudas? entre em contato conosco no email acima, por favor.
 
-  Agradecemos sua visita, volte sempre.
+  Agradecemos sua visita, volte sempre!
+
  *Artigo e programação ainda em desenvolvimento*
-  copyroght@2023-ViniciusKum
+
+  copyright@2023-ViniciusKum
+
   Escola Técnica Estadual de Campo Limpo Paulista
   Campo Limpo Paulista, 2023
