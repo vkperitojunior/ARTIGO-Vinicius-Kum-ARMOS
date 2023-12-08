@@ -1,5 +1,5 @@
- Uso destes códigos sem aviso prévio é expressamente proibido e pode gerar graves consequencias ao utilizador.
-
+ Favor, antes do uso, avisar o uso por direct, Instagram.
+ou
  Favor entre em contato com codnicius@gmail.com
 
 ### Artigo_Cientifico_P074
@@ -9,12 +9,17 @@
   Vinicius Kum na escola ETECAMP - SP, durante o 2º ano do Ensino Médio integrado ao
   Tecnico em Informática - 2º AI MTEC.
 
+Participantes:
+Vinícius Kum 1
+
+Orientadores:
+Barbara Porphirio 1
+Thaynara Maia 2
+
   Qualquer duvida estaremos a disposição para sanar -> codnicius@gmail.com
   Ajudas? entre em contato conosco no email acima, por favor.
 
   Agradecemos sua visita, volte sempre!
-
- *Artigo e programação ainda em desenvolvimento*
 
   copyright@2023-ViniciusKum
 
