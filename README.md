@@ -2,7 +2,7 @@
 ou
  Favor entre em contato com codnicius@gmail.com
 
-### Artigo_Cientifico_P074
+### Automação Multiplataforma Alternativa para Micro e pequenas empresas
 ![Imagem da logo do projeto](https://blog.positivocasainteligente.com.br/wp-content/uploads/2020/07/1-5-1024x577.jpg)
 
   Este é um repositório feito para segurança e demonstração do artigo realizado por
